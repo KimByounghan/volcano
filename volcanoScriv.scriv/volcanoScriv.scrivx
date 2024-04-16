@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Template="No" Version="2.0" Identifier="1437374E-F201-4EF3-A603-B5E95CC16B6A" Creator="SCRWIN-3.1.5.1" Device="사직-인터넷PC02" Modified="2024-04-16 16:55:47 +0900" ModID="B971902D-FE2F-46CC-93E1-C84B5EDA5DFF">
+    <Binder>
+        <BinderItem UUID="FB57AE48-E567-4089-BE3A-2E60D5529658" Type="DraftFolder" Created="2024-04-16 13:20:31 +0900" Modified="2024-04-16 13:20:31 +0900">
+            <Title>Draft</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem UUID="B498E1C8-7B13-43FC-B045-947355306C65" Type="Text" Created="2024-04-16 13:20:31 +0900" Modified="2024-04-16 15:51:52 +0900">
+                    <Title>노년도 할 수 있다</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="59C552C4-68FE-4CAE-98F8-75594C2C7984" Type="Text" Created="2024-04-16 13:37:52 +0900" Modified="2024-04-16 13:38:08 +0900">
+                    <Title>남이 아닌 나를 위한 책</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>8,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="30132500-6028-4194-BB8A-9830AB1DE469" Type="Folder" Created="2024-04-16 13:21:37 +0900" Modified="2024-04-16 13:22:03 +0900">
+                    <Title>Sigil로 만드는 전자책</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="5546CD5C-EF58-491A-9608-E2E1C0D93D82" Type="Text" Created="2024-04-16 13:22:13 +0900" Modified="2024-04-16 13:22:29 +0900">
+                            <Title>전자책 만들기</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="306B0A4E-D774-475D-9416-8006C64773FB" Type="Text" Created="2024-04-16 15:52:26 +0900" Modified="2024-04-16 15:55:47 +0900">
+                            <Title>upaper.kr에 유통 위탁</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>11,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="04A18327-5CCC-44F4-AAD6-596208B8BCB9" Type="Folder" Created="2024-04-16 13:22:40 +0900" Modified="2024-04-16 13:23:11 +0900">
+                    <Title>스크리브너로 글쓰기</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="8AE61916-2182-43BF-943A-901304A448E6" Type="Text" Created="2024-04-16 13:23:16 +0900" Modified="2024-04-16 13:23:23 +0900">
+                            <Title>스크리브너 활용법</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="040EC6A5-4953-4055-8DEB-11AF51F7E5A6" Type="Text" Created="2024-04-16 16:34:38 +0900" Modified="2024-04-16 16:35:38 +0900">
+                            <Title>참조 연결</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>50,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="6A25E9D4-1252-4780-A148-0543DB4C84DC" Type="Folder" Created="2024-04-16 13:23:29 +0900" Modified="2024-04-16 13:31:59 +0900">
+                    <Title>아래한글로 자서전 쓰기</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="39EA8DB4-9911-4DB3-8337-2BBDF945FC35" Type="Folder" Created="2024-04-16 13:23:55 +0900" Modified="2024-04-16 13:32:18 +0900">
+                    <Title>노년에 생활로 타는 자전거</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="85F80A88-5856-4227-BB01-7199116C4571" Type="Text" Created="2024-04-16 13:39:55 +0900" Modified="2024-04-16 13:53:22 +0900">
+                            <Title>자전거의 구조</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>45,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="DAED05F4-AC58-4C62-AABB-997CFA0A9391" Type="Folder" Created="2024-04-16 13:24:15 +0900" Modified="2024-04-16 13:32:29 +0900">
+                    <Title>노년이 즐기는 클래식</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="29EAD693-94FA-4D62-A6E2-E3DD6F17DEDE" Type="Folder" Created="2024-04-16 13:24:35 +0900" Modified="2024-04-16 13:24:47 +0900">
+                    <Title>프레지로 프레젠테이션</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="BD9ACD01-9E34-4312-84FE-A9A47D977796" Type="Folder" Created="2024-04-16 13:24:55 +0900" Modified="2024-04-16 13:32:56 +0900">
+                    <Title>노년도 탐구하는 QGIS</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="694AA089-1534-49BD-AC0F-E4552D728A19" Type="Folder" Created="2024-04-16 13:25:19 +0900" Modified="2024-04-16 13:33:12 +0900">
+                    <Title>ThinkWise로 컨셉 훈련을 하는 마인드맵</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="263D5933-3E26-4AAB-BA97-98A6743A1B61" Type="Folder" Created="2024-04-16 13:25:55 +0900" Modified="2024-04-16 13:26:03 +0900">
+                    <Title>돈의 되는 블로그 만들기</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="E0AA964E-7A7C-474E-A182-FC105F7A8ACD" Type="Text" Created="2024-04-16 15:49:24 +0900" Modified="2024-04-16 15:50:56 +0900">
+                            <Title>구글 애드센스</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>45,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="0146154A-8B5E-4C29-95B9-DCA8513890C2" Type="Folder" Created="2024-04-16 13:26:26 +0900" Modified="2024-04-16 13:33:34 +0900">
+                    <Title>노년도 할 수 있는 웹프로그래밍</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="EB16C257-0E37-4678-A547-63BDF44FDADA" Type="Text" Created="2024-04-16 15:13:55 +0900" Modified="2024-04-16 15:25:18 +0900">
+                            <Title>NodeJS</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>117,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="1CBE80F3-2196-46A8-B2AC-8FD657AA1ED3" Type="Text" Created="2024-04-16 15:25:34 +0900" Modified="2024-04-16 16:18:29 +0900">
+                            <Title>나의 첫 익스프레스 서버 만들기</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>863,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="80873F9C-2C69-42B0-9255-F6E225380303" Type="Text" Created="2024-04-16 16:28:50 +0900" Modified="2024-04-16 16:55:40 +0900">
+                            <Title>익스프레스로 간단한 API 서버 만들기</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1307,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="1258A173-6FEB-4608-9FE3-D840F8654DAC" Type="Text" Created="2024-04-16 15:17:52 +0900" Modified="2024-04-16 15:22:08 +0900">
+                            <Title>note</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>93,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="758D6658-C85A-48BE-95A5-030299A38238" Type="Text" Created="2024-04-16 16:25:06 +0900" Modified="2024-04-16 16:26:40 +0900">
+                            <Title>note_Express서버와 Node.js차이</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection Caret="856">0,856</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="5148D867-63B0-42F5-87FB-4C83E5210168" Type="Folder" Created="2024-04-16 14:15:42 +0900" Modified="2024-04-16 14:15:51 +0900">
+                    <Title>노년에 즐기는 대학생활</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="C59A17D9-1894-4BF7-AC4E-3D75B2F7F350" Type="Text" Created="2024-04-16 14:15:52 +0900" Modified="2024-04-16 14:16:23 +0900">
+                            <Title>컨셉</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="26BBE27E-00D5-4D27-9FCD-C8D9A2EDAB93" Type="Folder" Created="2024-04-16 14:34:28 +0900" Modified="2024-04-16 14:34:39 +0900">
+                    <Title>노년에 복습하는 수학</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="7A0829A3-265D-49F6-87F7-B1EB1CDB6F46" Type="Text" Created="2024-04-16 14:34:40 +0900" Modified="2024-04-16 15:04:59 +0900">
+                            <Title>컨셉</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>31,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="1ABF0B8C-1B27-4170-917D-AD28C323139E" Type="Folder" Created="2024-04-16 16:27:28 +0900" Modified="2024-04-16 16:27:35 +0900">
+                    <Title>블로그 글 자료</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="84687E1C-FF85-4A55-8476-56F09C2D304A" Type="Text" Created="2024-04-16 16:27:37 +0900" Modified="2024-04-16 16:28:17 +0900">
+                            <Title>Node.js와 Express 프레임워크 차이</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>25,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="669831E4-FB24-4BBA-AAD8-014A661CFCE5" Type="ResearchFolder" Created="2024-04-16 13:20:31 +0900" Modified="2024-04-16 13:20:31 +0900">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem UUID="7894DEAD-CE5B-49C9-82F7-F9F5307D0618" Type="WebArchive" Created="2024-04-16 16:32:16 +0900" Modified="2024-04-16 16:33:36 +0900">
+                    <Title>REST API 원칙</Title>
+                    <MetaData>
+                        <LabelID>3</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>mht</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <OriginalURL>https://restfulapi.net</OriginalURL>
+                    </MediaSettings>
+                    <Bookmarks>
+                        <Bookmark BinderUUID="80873F9C-2C69-42B0-9255-F6E225380303">익스프레스로 간단한 API 서버 만들기</Bookmark>
+                    </Bookmarks>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="11B2C4BB-27E6-4F52-AD44-632AC1BF83F7" Type="TrashFolder" Created="2024-04-16 13:20:31 +0900" Modified="2024-04-16 13:20:31 +0900">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="5B895B49-59F8-4688-BA95-357248BAF672" Color="0.941176 0.937255 0.956863">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="D6E6F033-515C-4F7E-8D36-1DF7F3AE8EC1" Color="0.901961 0.901961 0.980392">
+            <Title>Search Results</Title>
+            <SearchSettings Operator="Any" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No" IgnoreDiacritics="No"></SearchSettings>
+        </Collection>
+    </Collections>
+    <SectionTypes>
+        <TypeDefinitions>
+            <Type ID="EADB9C9E-37DF-4AD7-AEBD-D0B2E5DEABCF">Heading</Type>
+            <Type ID="561AED92-B20D-468F-94A7-ABF99EA2E34A">Sub-Heading</Type>
+            <Type ID="32CD2059-05FA-4A5D-8E64-C4233FC9E6F6">Section</Type>
+        </TypeDefinitions>
+        <LevelTypes>
+            <Folders>
+                <Type>EADB9C9E-37DF-4AD7-AEBD-D0B2E5DEABCF</Type>
+            </Folders>
+            <Containers>
+                <Type>32CD2059-05FA-4A5D-8E64-C4233FC9E6F6</Type>
+            </Containers>
+            <Files>
+                <Type>32CD2059-05FA-4A5D-8E64-C4233FC9E6F6</Type>
+            </Files>
+        </LevelTypes>
+    </SectionTypes>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.993500 0.701213 0.732586">Red</Label>
+            <Label ID="1" Color="0.995422 0.790951 0.652384">Orange</Label>
+            <Label ID="2" Color="0.997726 0.892729 0.652567">Yellow</Label>
+            <Label ID="3" Color="0.715862 0.948714 0.697688">Green</Label>
+            <Label ID="4" Color="0.702312 0.888273 0.974258">Blue</Label>
+            <Label ID="5" Color="0.957565 0.766751 0.999619">Purple</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">To Do</Status>
+            <Status ID="1">In Progress</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-04-16 13:20:31 +0900" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="Yes" ResetType="Time" ResetTime="01:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
+        <PreviousSession Words="781" Characters="4298" Date="2024-04-16 16:55:47 +0900"/>
+    </ProjectTargets>
+    <RecentWritingHistory Date="2024-04-16 00:00:00 +0900">
+        <DraftWordCount>781</DraftWordCount>
+        <DraftCharCount>4298</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
+    </RecentWritingHistory>
+    <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="72.0" BottomMargin="72.0" PaperType="iso-a4" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
+</ScrivenerProject>

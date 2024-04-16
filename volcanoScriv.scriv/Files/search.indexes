@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="0146154A-8B5E-4C29-95B9-DCA8513890C2">
+            <Title>노년도 할 수 있는 웹프로그래밍</Title>
+        </Document>
+        <Document ID="040EC6A5-4953-4055-8DEB-11AF51F7E5A6">
+            <Title>참조 연결</Title>
+            <Text>참조 페이지 연결
+
+우클릭하여 나온 서브 메뉴에서 ‘Link to Document’ 선택
+
+#</Text>
+        </Document>
+        <Document ID="04A18327-5CCC-44F4-AAD6-596208B8BCB9">
+            <Title>스크리브너로 글쓰기</Title>
+        </Document>
+        <Document ID="1258A173-6FEB-4608-9FE3-D840F8654DAC">
+            <Title>note</Title>
+            <Text>편집 옵션에서 첫글자 대문자 사용과 ‘I’에 대한 옵션 해제
+영문 상태의 글 작성에는 도움이 되지만은 한글 상태에서 영어를 가끔 사용하는 경우는 불편한 옵션입니다.
+
+#
+
+#</Text>
+        </Document>
+        <Document ID="1ABF0B8C-1B27-4170-917D-AD28C323139E">
+            <Title>블로그 글 자료</Title>
+        </Document>
+        <Document ID="1CBE80F3-2196-46A8-B2AC-8FD657AA1ED3">
+            <Title>나의 첫 익스프레스 서버 만들기</Title>
+            <Text>나의 첫 익스프레스 서버 만들기
+
+#
+
+#
+
+#
+
+#
+
+Node.js와 Express 서버는 서로 관련이 있지만 서로 다른 역할을 합니다.
+Node.js:
+Node.js는 JavaScript를 사용하여 서버 사이드 애플리케이션을 개발할 수 있는 런타임 환경입니다.
+이는 Chrome V8 JavaScript 엔진을 기반으로 하여 구축되었습니다.
+Node.js는 이벤트 기반, 논블로킹 I/O 모델을 사용하여 효율적이고 확장 가능한 네트워크 애플리케이션을 만드는 데 적합합니다.
+Node.js 자체는 서버 기능을 제공하지만, 서버를 구축하기 위해 추가적인 작업을 수행해야 합니다. 예를 들어, HTTP 서버를 만들기 위해 Node.js의 http 모듈을 사용하여 라우팅, 요청 처리 등을 직접 구현해야 합니다.
+Express:
+Express는 Node.js 위에 구축된 프레임워크로, 웹 애플리케이션과 API를 빠르고 쉽게 구축할 수 있도록 설계되었습니다.
+Express는 미들웨어 아키텍처를 사용하여 요청 및 응답 객체를 다루고, 라우팅, 템플릿 엔진 통합, 에러 핸들링 등과 같은 추가 기능을 제공합니다.
+Express를 사용하면 개발자가 웹 서버를 보다 쉽고 간결하게 구축할 수 있으며, 많은 반복적인 작업을 줄일 수 있습니다.
+간단히 말해서, Node.js는 웹 서버를 포함한 다양한 서버 사이드 애플리케이션을 만들 수 있는 기반이며, Express는 Node.js 위에 구축된 프레임워크로서 웹 애플리케이션과 API의 개발을 간편하게 만들어주는 추가적인 기능들을 제공합니다. Express 없이도 Node.js만으로 웹 서버를 구축할 수 있지만, Express를 사용하면 개발 과정이 훨씬 수월해집니다.
+
+다음과 같은 에러는?
+#
+
+#</Text>
+        </Document>
+        <Document ID="263D5933-3E26-4AAB-BA97-98A6743A1B61">
+            <Title>돈의 되는 블로그 만들기</Title>
+        </Document>
+        <Document ID="26BBE27E-00D5-4D27-9FCD-C8D9A2EDAB93">
+            <Title>노년에 복습하는 수학</Title>
+        </Document>
+        <Document ID="29EAD693-94FA-4D62-A6E2-E3DD6F17DEDE">
+            <Title>프레지로 프레젠테이션</Title>
+        </Document>
+        <Document ID="30132500-6028-4194-BB8A-9830AB1DE469">
+            <Title>Sigil로 만드는 전자책</Title>
+        </Document>
+        <Document ID="306B0A4E-D774-475D-9416-8006C64773FB">
+            <Title>upaper.kr에 유통 위탁</Title>
+            <Text>유페이퍼
+
+#
+
+
+#</Text>
+        </Document>
+        <Document ID="39EA8DB4-9911-4DB3-8337-2BBDF945FC35">
+            <Title>노년에 생활로 타는 자전거</Title>
+        </Document>
+        <Document ID="5148D867-63B0-42F5-87FB-4C83E5210168">
+            <Title>노년에 즐기는 대학생활</Title>
+        </Document>
+        <Document ID="5546CD5C-EF58-491A-9608-E2E1C0D93D82">
+            <Title>전자책 만들기</Title>
+        </Document>
+        <Document ID="59C552C4-68FE-4CAE-98F8-75594C2C7984">
+            <Title>남이 아닌 나를 위한 책</Title>
+            <Text>나를 위한 책
+</Text>
+        </Document>
+        <Document ID="694AA089-1534-49BD-AC0F-E4552D728A19">
+            <Title>ThinkWise로 컨셉 훈련을 하는 마인드맵</Title>
+        </Document>
+        <Document ID="6A25E9D4-1252-4780-A148-0543DB4C84DC">
+            <Title>아래한글로 자서전 쓰기</Title>
+        </Document>
+        <Document ID="758D6658-C85A-48BE-95A5-030299A38238">
+            <Title>note_Express서버와 Node.js차이</Title>
+            <Text>Node.js와 Express 프레임워크 차이를 분명하게 구별하도록 진술
+
+Node.js와 Express 서버는 서로 관련이 있지만 서로 다른 역할을 합니다.
+Node.js:
+Node.js는 JavaScript를 사용하여 서버 사이드 애플리케이션을 개발할 수 있는 런타임 환경입니다.
+이는 Chrome V8 JavaScript 엔진을 기반으로 하여 구축되었습니다.
+Node.js는 이벤트 기반, 논블로킹 I/O 모델을 사용하여 효율적이고 확장 가능한 네트워크 애플리케이션을 만드는 데 적합합니다.
+Node.js 자체는 서버 기능을 제공하지만, 서버를 구축하기 위해 추가적인 작업을 수행해야 합니다. 예를 들어, HTTP 서버를 만들기 위해 Node.js의 http 모듈을 사용하여 라우팅, 요청 처리 등을 직접 구현해야 합니다.
+Express:
+Express는 Node.js 위에 구축된 프레임워크로, 웹 애플리케이션과 API를 빠르고 쉽게 구축할 수 있도록 설계되었습니다.
+Express는 미들웨어 아키텍처를 사용하여 요청 및 응답 객체를 다루고, 라우팅, 템플릿 엔진 통합, 에러 핸들링 등과 같은 추가 기능을 제공합니다.
+Express를 사용하면 개발자가 웹 서버를 보다 쉽고 간결하게 구축할 수 있으며, 많은 반복적인 작업을 줄일 수 있습니다.
+간단히 말해서, Node.js는 웹 서버를 포함한 다양한 서버 사이드 애플리케이션을 만들 수 있는 기반이며, Express는 Node.js 위에 구축된 프레임워크로서 웹 애플리케이션과 API의 개발을 간편하게 만들어주는 추가적인 기능들을 제공합니다. Express 없이도 Node.js만으로 웹 서버를 구축할 수 있지만, Express를 사용하면 개발 과정이 훨씬 수월해집니다.</Text>
+        </Document>
+        <Document ID="7894DEAD-CE5B-49C9-82F7-F9F5307D0618">
+            <Title>REST API 원칙</Title>
+        </Document>
+        <Document ID="7A0829A3-265D-49F6-87F7-B1EB1CDB6F46">
+            <Title>컨셉</Title>
+            <Text>#
+
+#
+
+#
+아서 케일리
+
+#
+뉴스에 소개된 취합검사법</Text>
+        </Document>
+        <Document ID="80873F9C-2C69-42B0-9255-F6E225380303">
+            <Title>익스프레스로 간단한 API 서버 만들기</Title>
+            <Text>API(Application Programming Interface)
+프로그램에서 다른 프로그램의 기능을 사용할 수 있도록 하는 일종의 규약
+
+API는 REST API 원칙을 따라 제작
+REST API원칙REST API 원칙
+- 자원을 URL에 표현하고 자원을 가져오는 행위를 HTTP 메서드로 표현하는 규칙
+
+간단 게시판 만들기
+
+const express = require(&quot;express&quot;);
+const app = express();
+let posts = [];
+
+// req.body를 사용하려면 JSON 미들웨어를 사용해야 함
+// 사용하지 않으면 undefined로 반환
+app.use(express.json()); // JSON 미들웨어 활성화
+
+// POST 요청 시 콘텐트 타입이 application/x-www-form-urlencoded인 경우 파싱
+app.use(express.urlencoded({extended: true})); // JSON 미들웨어와 함께 사용
+
+app.get(&quot;/&quot;, (req, res) =&gt; {
+    res.json(posts);
+});
+
+app.post(&quot;/posts&quot;, (req, tes) =&gt; {
+    const {title, name, text} = req.body;
+
+    // 게시슬 리스트에 새로운 게시글 정보 추가
+    posts.push({id: posts.length + 1, title, name, text, createdDt: Date()});
+    res.json({title, name, text});
+});
+
+app.delete(&quot;/posts/:id&quot;, (req, res) =&gt; {
+    const id = req.params.id; // app.delete에 설정한 path 정보에서 id 값을 가져옴
+    const filteredPosts = posts.filter((post) =&gt; post.id !== +id); // 글 삭제 로직
+    const isLengthChanged = posts.length !== filteredPosts.length; // 삭제 확인
+    posts = filteredPosts;
+    if (isLengthChanged) { // posts의 데이터 개수가 변경되었으면 삭제 성공
+        res.json(&quot;OK&quot;);
+        return;
+    }
+    res.json(&quot;NOT CHANGED&quot;);
+});
+
+app.listen(3003, () =&gt; {
+    console.log(&quot;Welcom posts START!&quot;);
+});
+
+#
+익스프레스 간단한 API 서버 성공
+</Text>
+        </Document>
+        <Document ID="84687E1C-FF85-4A55-8476-56F09C2D304A">
+            <Title>Node.js와 Express 프레임워크 차이</Title>
+            <Text>Node.js와 Express 프레임워크 차이
+
+Node.js와 Express 서버는 서로 관련이 있지만 서로 다른 역할을 합니다.
+Node.js:
+Node.js는 JavaScript를 사용하여 서버 사이드 애플리케이션을 개발할 수 있는 런타임 환경입니다.
+이는 Chrome V8 JavaScript 엔진을 기반으로 하여 구축되었습니다.
+Node.js는 이벤트 기반, 논블로킹 I/O 모델을 사용하여 효율적이고 확장 가능한 네트워크 애플리케이션을 만드는 데 적합합니다.
+Node.js 자체는 서버 기능을 제공하지만, 서버를 구축하기 위해 추가적인 작업을 수행해야 합니다. 예를 들어, HTTP 서버를 만들기 위해 Node.js의 http 모듈을 사용하여 라우팅, 요청 처리 등을 직접 구현해야 합니다.
+Express:
+Express는 Node.js 위에 구축된 프레임워크로, 웹 애플리케이션과 API를 빠르고 쉽게 구축할 수 있도록 설계되었습니다.
+Express는 미들웨어 아키텍처를 사용하여 요청 및 응답 객체를 다루고, 라우팅, 템플릿 엔진 통합, 에러 핸들링 등과 같은 추가 기능을 제공합니다.
+Express를 사용하면 개발자가 웹 서버를 보다 쉽고 간결하게 구축할 수 있으며, 많은 반복적인 작업을 줄일 수 있습니다.
+간단히 말해서, Node.js는 웹 서버를 포함한 다양한 서버 사이드 애플리케이션을 만들 수 있는 기반이며, Express는 Node.js 위에 구축된 프레임워크로서 웹 애플리케이션과 API의 개발을 간편하게 만들어주는 추가적인 기능들을 제공합니다. Express 없이도 Node.js만으로 웹 서버를 구축할 수 있지만, Express를 사용하면 개발 과정이 훨씬 수월해집니다.</Text>
+        </Document>
+        <Document ID="85F80A88-5856-4227-BB01-7199116C4571">
+            <Title>자전거의 구조</Title>
+            <Text>자전거의 구조
+
+자전거 타는 것은 과학이다.
+
+자전거 프레임: 카본 프레임 만들기</Text>
+        </Document>
+        <Document ID="8AE61916-2182-43BF-943A-901304A448E6">
+            <Title>스크리브너 활용법</Title>
+        </Document>
+        <Document ID="B498E1C8-7B13-43FC-B045-947355306C65">
+            <Title>노년도 할 수 있다</Title>
+            <Text>노년도 할 수 있다
+책 출간 프로젝트
+#</Text>
+        </Document>
+        <Document ID="BD9ACD01-9E34-4312-84FE-A9A47D977796">
+            <Title>노년도 탐구하는 QGIS</Title>
+        </Document>
+        <Document ID="C59A17D9-1894-4BF7-AC4E-3D75B2F7F350">
+            <Title>컨셉</Title>
+            <Text>#</Text>
+        </Document>
+        <Document ID="DAED05F4-AC58-4C62-AABB-997CFA0A9391">
+            <Title>노년이 즐기는 클래식</Title>
+        </Document>
+        <Document ID="E0AA964E-7A7C-474E-A182-FC105F7A8ACD">
+            <Title>구글 애드센스</Title>
+            <Text>구글 애드센스
+
+구글 애드센스: https://adsense.google.com
+
+#</Text>
+        </Document>
+        <Document ID="EB16C257-0E37-4678-A547-63BDF44FDADA">
+            <Title>NodeJS</Title>
+            <Text>익스프레스 설치하기
+익스프레스는 기본 라이브러리가 아니기 때문에 따로 설치해야 합니다.
+디렉터리 만들기
+mkdir express-server
+#
+
+#
+
+설치된 상태를 확인합니다.
+
+#
+
+npm ls로 확인
+
+#</Text>
+        </Document>
+    </Documents>
+</SearchIndexes>
