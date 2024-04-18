@@ -85,6 +85,15 @@ Express를 사용하면 개발자가 웹 서버를 보다 쉽고 간결하게 �
         </Document>
         <Document ID="5546CD5C-EF58-491A-9608-E2E1C0D93D82">
             <Title>전자책 만들기</Title>
+            <Text>4월의 전자책: EPUB 2.0으로 만드는 전자책 만들기
+최신 버전은 Sigil 2.1.0
+#
+
+#
+
+PageEdit 동반 설치
+
+시길 2.1 버전을 사용하되, epub 버전은 3.0이 아닌 2.0 버전으로 책 만들기(후속작으로 3.0 사용)</Text>
         </Document>
         <Document ID="59C552C4-68FE-4CAE-98F8-75594C2C7984">
             <Title>남이 아닌 나를 위한 책</Title>

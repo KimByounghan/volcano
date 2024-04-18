@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="1437374E-F201-4EF3-A603-B5E95CC16B6A" Creator="SCRWIN-3.1.5.1" Device="사직-인터넷PC02" Modified="2024-04-16 16:55:47 +0900" ModID="B971902D-FE2F-46CC-93E1-C84B5EDA5DFF">
+<ScrivenerProject Template="No" Version="2.0" Identifier="1437374E-F201-4EF3-A603-B5E95CC16B6A" Creator="SCRWIN-3.1.5.1" Device="인터넷15" Modified="2024-04-18 11:56:52 +0900" ModID="EBF1D498-0E9A-4C0E-8A9A-179A5E05F444">
     <Binder>
         <BinderItem UUID="FB57AE48-E567-4089-BE3A-2E60D5529658" Type="DraftFolder" Created="2024-04-16 13:20:31 +0900" Modified="2024-04-16 13:20:31 +0900">
             <Title>Draft</Title>
@@ -7,7 +7,7 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem UUID="B498E1C8-7B13-43FC-B045-947355306C65" Type="Text" Created="2024-04-16 13:20:31 +0900" Modified="2024-04-16 15:51:52 +0900">
+                <BinderItem UUID="B498E1C8-7B13-43FC-B045-947355306C65" Type="Text" Created="2024-04-16 13:20:31 +0900" Modified="2024-04-18 10:54:23 +0900">
                     <Title>노년도 할 수 있다</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -34,16 +34,16 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="5546CD5C-EF58-491A-9608-E2E1C0D93D82" Type="Text" Created="2024-04-16 13:22:13 +0900" Modified="2024-04-16 13:22:29 +0900">
+                        <BinderItem UUID="5546CD5C-EF58-491A-9608-E2E1C0D93D82" Type="Text" Created="2024-04-16 13:22:13 +0900" Modified="2024-04-18 11:56:44 +0900">
                             <Title>전자책 만들기</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>135,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="306B0A4E-D774-475D-9416-8006C64773FB" Type="Text" Created="2024-04-16 15:52:26 +0900" Modified="2024-04-16 15:55:47 +0900">
+                        <BinderItem UUID="306B0A4E-D774-475D-9416-8006C64773FB" Type="Text" Created="2024-04-16 15:52:26 +0900" Modified="2024-04-18 10:54:23 +0900">
                             <Title>upaper.kr에 유통 위탁</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -195,7 +195,7 @@
                                 <TextSelection>863,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="80873F9C-2C69-42B0-9255-F6E225380303" Type="Text" Created="2024-04-16 16:28:50 +0900" Modified="2024-04-16 16:55:40 +0900">
+                        <BinderItem UUID="80873F9C-2C69-42B0-9255-F6E225380303" Type="Text" Created="2024-04-16 16:28:50 +0900" Modified="2024-04-18 10:54:23 +0900">
                             <Title>익스프레스로 간단한 API 서버 만들기</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -371,11 +371,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-04-16 13:20:31 +0900" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="Yes" ResetType="Time" ResetTime="01:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="781" Characters="4298" Date="2024-04-16 16:55:47 +0900"/>
+        <PreviousSession Words="29" Characters="135" Date="2024-04-18 11:56:52 +0900"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2024-04-16 00:00:00 +0900">
-        <DraftWordCount>781</DraftWordCount>
-        <DraftCharCount>4298</DraftCharCount>
+    <RecentWritingHistory Date="2024-04-18 00:00:00 +0900">
+        <DraftWordCount>29</DraftWordCount>
+        <DraftCharCount>135</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
