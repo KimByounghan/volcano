@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="1437374E-F201-4EF3-A603-B5E95CC16B6A" Creator="SCRWIN-3.1.5.1" Device="사직-인터넷PC02" Modified="2024-04-23 09:43:25 +0900" ModID="CE76A661-C8A3-401B-9DA0-26D0AB5BF28E">
+<ScrivenerProject Template="No" Version="2.0" Identifier="1437374E-F201-4EF3-A603-B5E95CC16B6A" Creator="SCRWIN-3.1.5.1" Device="어린이01" Modified="2024-04-23 16:00:23 +0900" ModID="52DF7EAD-28B4-45E9-8CF1-805C5D2F8620">
     <Binder>
         <BinderItem UUID="FB57AE48-E567-4089-BE3A-2E60D5529658" Type="DraftFolder" Created="2024-04-16 13:20:31 +0900" Modified="2024-04-16 13:20:31 +0900">
             <Title>Draft</Title>
@@ -7,16 +7,16 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem UUID="B498E1C8-7B13-43FC-B045-947355306C65" Type="Text" Created="2024-04-16 13:20:31 +0900" Modified="2024-04-18 10:54:23 +0900">
+                <BinderItem UUID="B498E1C8-7B13-43FC-B045-947355306C65" Type="Text" Created="2024-04-16 13:20:31 +0900" Modified="2024-04-23 15:59:16 +0900">
                     <Title>노년도 할 수 있다</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection Caret="1320">24,1296</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="59C552C4-68FE-4CAE-98F8-75594C2C7984" Type="Text" Created="2024-04-16 13:37:52 +0900" Modified="2024-04-16 13:38:08 +0900">
+                <BinderItem UUID="59C552C4-68FE-4CAE-98F8-75594C2C7984" Type="Text" Created="2024-04-16 13:37:52 +0900" Modified="2024-04-23 15:59:57 +0900">
                     <Title>남이 아닌 나를 위한 책</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -62,6 +62,17 @@
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
+                    <Children>
+                        <BinderItem UUID="1E50266B-8686-44D9-AE7B-EF89DA83BC01" Type="Text" Created="2024-04-23 16:00:09 +0900" Modified="2024-04-23 16:00:21 +0900">
+                            <Title>2024년 시집</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
                 </BinderItem>
                 <BinderItem UUID="04A18327-5CCC-44F4-AAD6-596208B8BCB9" Type="Folder" Created="2024-04-16 13:22:40 +0900" Modified="2024-04-16 13:23:11 +0900">
                     <Title>스크리브너로 글쓰기</Title>
@@ -110,8 +121,8 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="39EA8DB4-9911-4DB3-8337-2BBDF945FC35" Type="Folder" Created="2024-04-16 13:23:55 +0900" Modified="2024-04-16 13:32:18 +0900">
-                    <Title>노년에 생활로 타는 자전거</Title>
+                <BinderItem UUID="39EA8DB4-9911-4DB3-8337-2BBDF945FC35" Type="Folder" Created="2024-04-16 13:23:55 +0900" Modified="2024-04-23 15:35:55 +0900">
+                    <Title>생활로 타는 건강 자전거</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
@@ -130,8 +141,8 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="DAED05F4-AC58-4C62-AABB-997CFA0A9391" Type="Folder" Created="2024-04-16 13:24:15 +0900" Modified="2024-04-16 13:32:29 +0900">
-                    <Title>노년이 즐기는 클래식</Title>
+                <BinderItem UUID="DAED05F4-AC58-4C62-AABB-997CFA0A9391" Type="Folder" Created="2024-04-16 13:24:15 +0900" Modified="2024-04-23 15:36:06 +0900">
+                    <Title>노년에 즐기는 클래식</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
@@ -166,8 +177,8 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="263D5933-3E26-4AAB-BA97-98A6743A1B61" Type="Folder" Created="2024-04-16 13:25:55 +0900" Modified="2024-04-16 13:26:03 +0900">
-                    <Title>돈의 되는 블로그 만들기</Title>
+                <BinderItem UUID="263D5933-3E26-4AAB-BA97-98A6743A1B61" Type="Folder" Created="2024-04-16 13:25:55 +0900" Modified="2024-04-23 15:41:08 +0900">
+                    <Title>돈이 되는 블로그 만들기</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
@@ -447,11 +458,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-04-16 13:20:31 +0900" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="Yes" ResetType="Time" ResetTime="01:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="13" Characters="63" Date="2024-04-23 09:43:25 +0900"/>
+        <PreviousSession Words="297" Characters="1362" Date="2024-04-23 16:00:23 +0900"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2024-04-23 00:00:00 +0900">
-        <DraftWordCount>13</DraftWordCount>
-        <DraftCharCount>63</DraftCharCount>
+        <DraftWordCount>297</DraftWordCount>
+        <DraftCharCount>1362</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
