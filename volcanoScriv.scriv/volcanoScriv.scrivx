@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="1437374E-F201-4EF3-A603-B5E95CC16B6A" Creator="SCRWIN-3.1.5.1" Device="인터넷15" Modified="2024-04-18 11:56:52 +0900" ModID="EBF1D498-0E9A-4C0E-8A9A-179A5E05F444">
+<ScrivenerProject Template="No" Version="2.0" Identifier="1437374E-F201-4EF3-A603-B5E95CC16B6A" Creator="SCRWIN-3.1.5.1" Device="사직-인터넷PC02" Modified="2024-04-23 09:43:25 +0900" ModID="CE76A661-C8A3-401B-9DA0-26D0AB5BF28E">
     <Binder>
         <BinderItem UUID="FB57AE48-E567-4089-BE3A-2E60D5529658" Type="DraftFolder" Created="2024-04-16 13:20:31 +0900" Modified="2024-04-16 13:20:31 +0900">
             <Title>Draft</Title>
@@ -54,6 +54,15 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
+                <BinderItem UUID="AB2538E2-DF89-4365-A4D7-18679B876D35" Type="Folder" Created="2024-04-23 09:30:14 +0900" Modified="2024-04-23 09:30:39 +0900">
+                    <Title>이명란강사시집</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
                 <BinderItem UUID="04A18327-5CCC-44F4-AAD6-596208B8BCB9" Type="Folder" Created="2024-04-16 13:22:40 +0900" Modified="2024-04-16 13:23:11 +0900">
                     <Title>스크리브너로 글쓰기</Title>
                     <MetaData>
@@ -79,6 +88,15 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>50,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="B6EFD773-1231-4C78-9B5A-42B5ED9C9408" Type="Text" Created="2024-04-23 09:31:43 +0900" Modified="2024-04-23 09:32:54 +0900">
+                            <Title>스크리브너 기존 파일 오픈 후에 변경된 파일</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>16,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -242,10 +260,58 @@
                                 <TextSelection>1,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
+                        <BinderItem UUID="DD5CDF35-F0AB-4A7D-8E62-56370B382BF9" Type="Folder" Created="2024-04-23 09:39:56 +0900" Modified="2024-04-23 09:40:07 +0900">
+                            <Title>한국방송통신대학교</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="DDB02950-268B-43F8-AC52-879B0A00364C" Type="Text" Created="2024-04-23 09:40:12 +0900" Modified="2024-04-23 09:40:16 +0900">
+                                    <Title>컨셉</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="94383E1B-9874-4111-8A54-55100F11B99C" Type="Folder" Created="2024-04-23 09:40:26 +0900" Modified="2024-04-23 09:40:32 +0900">
+                            <Title>서울사이버대학교</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="FA7DAE32-1D51-4626-965B-3B74A494AEE8" Type="Text" Created="2024-04-23 09:39:05 +0900" Modified="2024-04-23 09:42:36 +0900">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>47,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="5B9B1C4F-CCE6-474A-83D8-FD1C4B7517DA" Type="Text" Created="2024-04-23 09:40:34 +0900" Modified="2024-04-23 09:40:37 +0900">
+                                    <Title>컨셉</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="26BBE27E-00D5-4D27-9FCD-C8D9A2EDAB93" Type="Folder" Created="2024-04-16 14:34:28 +0900" Modified="2024-04-16 14:34:39 +0900">
-                    <Title>노년에 복습하는 수학</Title>
+                <BinderItem UUID="26BBE27E-00D5-4D27-9FCD-C8D9A2EDAB93" Type="Folder" Created="2024-04-16 14:34:28 +0900" Modified="2024-04-23 09:33:32 +0900">
+                    <Title>노년에 다시하는 수학 공부</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
@@ -305,6 +371,16 @@
                     <Bookmarks>
                         <Bookmark BinderUUID="80873F9C-2C69-42B0-9255-F6E225380303">익스프레스로 간단한 API 서버 만들기</Bookmark>
                     </Bookmarks>
+                </BinderItem>
+                <BinderItem UUID="BBB8225D-2872-4473-912C-76172C2D86DB" Type="PDF" Created="2024-04-23 09:42:52 +0900" Modified="2024-04-23 09:42:53 +0900">
+                    <Title>[필독]시험응시안내서</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>1</CurrentPDFPage>
+                    </MediaSettings>
                 </BinderItem>
             </Children>
         </BinderItem>
@@ -371,11 +447,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-04-16 13:20:31 +0900" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="Yes" ResetType="Time" ResetTime="01:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="29" Characters="135" Date="2024-04-18 11:56:52 +0900"/>
+        <PreviousSession Words="13" Characters="63" Date="2024-04-23 09:43:25 +0900"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2024-04-18 00:00:00 +0900">
-        <DraftWordCount>29</DraftWordCount>
-        <DraftCharCount>135</DraftCharCount>
+    <RecentWritingHistory Date="2024-04-23 00:00:00 +0900">
+        <DraftWordCount>13</DraftWordCount>
+        <DraftCharCount>63</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
