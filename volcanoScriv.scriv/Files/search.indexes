@@ -253,6 +253,14 @@ Express를 사용하면 개발자가 웹 서버를 보다 쉽고 간결하게 �
         </Document>
         <Document ID="8AE61916-2182-43BF-943A-901304A448E6">
             <Title>스크리브너 활용법</Title>
+            <Text>스크리브너 설치하기
+새 프로젝트
+프로젝트 백업
+클라우드에서 공유하기
+바인더에서 만들기
+
+
+</Text>
         </Document>
         <Document ID="94383E1B-9874-4111-8A54-55100F11B99C">
             <Title>서울사이버대학교</Title>
@@ -311,6 +319,10 @@ Express를 사용하면 개발자가 웹 서버를 보다 쉽고 간결하게 �
         </Document>
         <Document ID="C59A17D9-1894-4BF7-AC4E-3D75B2F7F350">
             <Title>컨셉</Title>
+            <Text>#</Text>
+        </Document>
+        <Document ID="CCB43881-745C-4FA9-90B8-6A8040073D91">
+            <Title>하단에서 만들기</Title>
             <Text>#</Text>
         </Document>
         <Document ID="DAED05F4-AC58-4C62-AABB-997CFA0A9391">

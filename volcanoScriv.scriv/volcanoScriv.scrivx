@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="1437374E-F201-4EF3-A603-B5E95CC16B6A" Creator="SCRWIN-3.1.5.1" Device="인터넷15" Modified="2024-05-02 11:59:26 +0900" ModID="A27E3285-B685-4F24-B03C-02227534C3A2">
+<ScrivenerProject Template="No" Version="2.0" Identifier="1437374E-F201-4EF3-A603-B5E95CC16B6A" Creator="SCRWIN-3.1.5.1" Device="어린이01" Modified="2024-05-06 16:54:55 +0900" ModID="118FC6E1-C4E2-4B8E-A727-51EC4C02C7E9">
     <Binder>
         <BinderItem UUID="FB57AE48-E567-4089-BE3A-2E60D5529658" Type="DraftFolder" Created="2024-04-16 13:20:31 +0900" Modified="2024-04-16 13:20:31 +0900">
             <Title>Draft</Title>
@@ -82,14 +82,29 @@
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentUUIDs>8AE61916-2182-43BF-943A-901304A448E6</SelectedSubdocumentUUIDs>
+                        <CorkboardSettings>
+                            <Arrangement>Linear</Arrangement>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem UUID="8AE61916-2182-43BF-943A-901304A448E6" Type="Text" Created="2024-04-16 13:23:16 +0900" Modified="2024-04-16 13:23:23 +0900">
+                        <BinderItem UUID="8AE61916-2182-43BF-943A-901304A448E6" Type="Text" Created="2024-04-16 13:23:16 +0900" Modified="2024-05-06 16:08:33 +0900">
                             <Title>스크리브너 활용법</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>47,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="CCB43881-745C-4FA9-90B8-6A8040073D91" Type="Text" Created="2024-05-06 16:09:20 +0900" Modified="2024-05-06 16:54:49 +0900">
+                            <Title>하단에서 만들기</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="040EC6A5-4953-4055-8DEB-11AF51F7E5A6" Type="Text" Created="2024-04-16 16:34:38 +0900" Modified="2024-04-16 16:35:38 +0900">
@@ -476,11 +491,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-04-16 13:20:31 +0900" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="Yes" ResetType="Time" ResetTime="01:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="435" Characters="1908" Date="2024-05-02 11:59:26 +0900"/>
+        <PreviousSession Words="10" Characters="51" Date="2024-05-06 16:54:55 +0900"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2024-05-02 00:00:00 +0900">
-        <DraftWordCount>435</DraftWordCount>
-        <DraftCharCount>1908</DraftCharCount>
+    <RecentWritingHistory Date="2024-05-06 00:00:00 +0900">
+        <DraftWordCount>10</DraftWordCount>
+        <DraftCharCount>51</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
