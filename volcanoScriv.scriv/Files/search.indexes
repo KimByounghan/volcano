@@ -323,6 +323,9 @@ Express를 사용하면 개발자가 웹 서버를 보다 쉽고 간결하게 �
         <Document ID="AB2538E2-DF89-4365-A4D7-18679B876D35">
             <Title>이명란강사시집</Title>
         </Document>
+        <Document ID="ADA317A4-4D04-426D-967B-F3975DA5DB8A">
+            <Title>23권 파트로클로스를 위한 장례 경기</Title>
+        </Document>
         <Document ID="B498E1C8-7B13-43FC-B045-947355306C65">
             <Title>노년도 할 수 있다</Title>
             <Text>노년도 할 수 있다
@@ -365,6 +368,9 @@ Express를 사용하면 개발자가 웹 서버를 보다 쉽고 간결하게 �
 변경된 파일(깃허브) 
 
 </Text>
+        </Document>
+        <Document ID="B8016502-B3D6-4E68-A814-F4FE8ABF87B3">
+            <Title>24권 몸값을 주고 헥토르의 시신을 돌려받다</Title>
         </Document>
         <Document ID="BBB8225D-2872-4473-912C-76172C2D86DB">
             <Title>[필독]시험응시안내서</Title>
@@ -1434,6 +1440,12 @@ mkdir express-server
 npm ls로 확인
 
 #</Text>
+        </Document>
+        <Document ID="ED06D621-E34E-464A-B1AC-EB9143366C8F">
+            <Title>22권 헥토르의 죽음</Title>
+            <Text>22권 헥토르의 죽음
+
+</Text>
         </Document>
         <Document ID="FA7DAE32-1D51-4626-965B-3B74A494AEE8">
             <Text>#

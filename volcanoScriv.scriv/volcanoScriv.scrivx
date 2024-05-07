@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="1437374E-F201-4EF3-A603-B5E95CC16B6A" Creator="SCRWIN-3.1.5.1" Device="인터넷1-원문db" Modified="2024-05-07 14:42:11 +0900" ModID="930436D7-3395-4A05-9266-3B12D7A97970">
+<ScrivenerProject Template="No" Version="2.0" Identifier="1437374E-F201-4EF3-A603-B5E95CC16B6A" Creator="SCRWIN-3.1.5.1" Device="어린이01" Modified="2024-05-07 15:49:28 +0900" ModID="2E49E196-E065-4004-90A1-E19B0CEC7047">
     <Binder>
         <BinderItem UUID="FB57AE48-E567-4089-BE3A-2E60D5529658" Type="DraftFolder" Created="2024-04-16 13:20:31 +0900" Modified="2024-04-16 13:20:31 +0900">
             <Title>Draft</Title>
@@ -313,6 +313,33 @@
                                         <TextSelection>679,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
+                                <BinderItem UUID="ED06D621-E34E-464A-B1AC-EB9143366C8F" Type="Text" Created="2024-05-07 15:23:12 +0900" Modified="2024-05-07 15:48:25 +0900">
+                                    <Title>22권 헥토르의 죽음</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>13,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="ADA317A4-4D04-426D-967B-F3975DA5DB8A" Type="Text" Created="2024-05-07 15:48:30 +0900" Modified="2024-05-07 15:48:57 +0900">
+                                    <Title>23권 파트로클로스를 위한 장례 경기</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="B8016502-B3D6-4E68-A814-F4FE8ABF87B3" Type="Text" Created="2024-05-07 15:48:57 +0900" Modified="2024-05-07 15:49:26 +0900">
+                                    <Title>24권 몸값을 주고 헥토르의 시신을 돌려받다</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
                                 <BinderItem UUID="195BD101-2EEC-40B2-B0B9-29D2ABBE8615" Type="Text" Created="2024-05-07 10:24:44 +0900" Modified="2024-05-07 13:40:25 +0900">
                                     <Title>기말과제_고전소설강독</Title>
                                     <MetaData>
@@ -554,11 +581,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-04-16 13:20:31 +0900" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="Yes" ResetType="Time" ResetTime="01:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="327" Characters="1395" Date="2024-05-07 14:42:11 +0900"/>
+        <PreviousSession Words="330" Characters="1408" Date="2024-05-07 15:49:28 +0900"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2024-05-07 00:00:00 +0900">
-        <DraftWordCount>327</DraftWordCount>
-        <DraftCharCount>1395</DraftCharCount>
+        <DraftWordCount>330</DraftWordCount>
+        <DraftCharCount>1408</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
