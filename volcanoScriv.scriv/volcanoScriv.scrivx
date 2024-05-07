@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="1437374E-F201-4EF3-A603-B5E95CC16B6A" Creator="SCRWIN-3.1.5.1" Device="어린이01" Modified="2024-05-06 16:54:55 +0900" ModID="118FC6E1-C4E2-4B8E-A727-51EC4C02C7E9">
+<ScrivenerProject Template="No" Version="2.0" Identifier="1437374E-F201-4EF3-A603-B5E95CC16B6A" Creator="SCRWIN-3.1.5.1" Device="사직-인터넷PC02" Modified="2024-05-07 13:40:49 +0900" ModID="3C2C1245-3A54-4FD3-91C0-12CFCD4EFB3C">
     <Binder>
         <BinderItem UUID="FB57AE48-E567-4089-BE3A-2E60D5529658" Type="DraftFolder" Created="2024-04-16 13:20:31 +0900" Modified="2024-04-16 13:20:31 +0900">
             <Title>Draft</Title>
@@ -13,7 +13,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection Caret="1320">24,1296</TextSelection>
+                        <TextSelection>819,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="59C552C4-68FE-4CAE-98F8-75594C2C7984" Type="Text" Created="2024-04-16 13:37:52 +0900" Modified="2024-04-23 15:59:57 +0900">
@@ -304,6 +304,24 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
+                                <BinderItem UUID="3EBAB9FC-8490-4FB2-BA69-8B5362F0C681" Type="Text" Created="2024-05-07 10:24:17 +0900" Modified="2024-05-07 13:39:28 +0900">
+                                    <Title>기말과제_신화의세계</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>679,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="195BD101-2EEC-40B2-B0B9-29D2ABBE8615" Type="Text" Created="2024-05-07 10:24:44 +0900" Modified="2024-05-07 13:40:25 +0900">
+                                    <Title>기말과제_고전소설강독</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>531,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
                             </Children>
                         </BinderItem>
                         <BinderItem UUID="94383E1B-9874-4111-8A54-55100F11B99C" Type="Folder" Created="2024-04-23 09:40:26 +0900" Modified="2024-04-23 09:40:32 +0900">
@@ -390,6 +408,42 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,6</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="D2EA2CC2-508D-4A97-8385-6A12DF155E41" Type="Folder" Created="2024-05-07 11:32:14 +0900" Modified="2024-05-07 11:32:23 +0900">
+                    <Title>근테크</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentUUIDs>CFC0DB99-30DC-49BE-AF28-3CBEBCC6A5B1</SelectedSubdocumentUUIDs>
+                        <CorkboardSettings>
+                            <Arrangement>Linear</Arrangement>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem UUID="803589F1-B6C0-4256-AB27-EEE2B54959B4" Type="Text" Created="2024-05-07 11:32:25 +0900" Modified="2024-05-07 11:32:30 +0900">
+                            <Title>자료</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="CFC0DB99-30DC-49BE-AF28-3CBEBCC6A5B1" Type="Text" Created="2024-05-07 11:31:42 +0900" Modified="2024-05-07 11:31:43 +0900">
+                            <Title>[정희원교수 풀버전] 건강한 노인으로 늙어가는 5가지 </Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>930,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -491,11 +545,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-04-16 13:20:31 +0900" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="Yes" ResetType="Time" ResetTime="01:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="10" Characters="51" Date="2024-05-06 16:54:55 +0900"/>
+        <PreviousSession Words="313" Characters="1342" Date="2024-05-07 13:40:49 +0900"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2024-05-06 00:00:00 +0900">
-        <DraftWordCount>10</DraftWordCount>
-        <DraftCharCount>51</DraftCharCount>
+    <RecentWritingHistory Date="2024-05-07 00:00:00 +0900">
+        <DraftWordCount>313</DraftWordCount>
+        <DraftCharCount>1342</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
