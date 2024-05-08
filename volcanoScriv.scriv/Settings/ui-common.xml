@@ -20,7 +20,7 @@
             <ItemID>669831E4-FB24-4BBA-AAD8-014A661CFCE5</ItemID>
         </ExpandedItems>
         <Selection>
-            <ItemID>ED06D621-E34E-464A-B1AC-EB9143366C8F</ItemID>
+            <ItemID>70401F34-8F9F-46EA-B863-54A5DF20DDF4</ItemID>
         </Selection>
         <SearchResultsSort Titles="Ascending" Dates="Ascending">None</SearchResultsSort>
     </Binder>
@@ -74,9 +74,9 @@
                 <CurrentViewMode>Single</CurrentViewMode>
                 <SelectionAffects>Current</SelectionAffects>
                 <Content>
-                    <ItemID>ED06D621-E34E-464A-B1AC-EB9143366C8F</ItemID>
+                    <ItemID>70401F34-8F9F-46EA-B863-54A5DF20DDF4</ItemID>
                 </Content>
-                <NavigationHistory CurrentIndex="104">
+                <NavigationHistory CurrentIndex="106">
                     <HistoryItem Type="BinderItems" ViewMode="Single">B498E1C8-7B13-43FC-B045-947355306C65</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Corkboard">30132500-6028-4194-BB8A-9830AB1DE469</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">5546CD5C-EF58-491A-9608-E2E1C0D93D82</HistoryItem>
@@ -182,6 +182,8 @@
                     <HistoryItem Type="BinderItems" ViewMode="Single">ADA317A4-4D04-426D-967B-F3975DA5DB8A</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">B8016502-B3D6-4E68-A814-F4FE8ABF87B3</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">ED06D621-E34E-464A-B1AC-EB9143366C8F</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">1ABF0B8C-1B27-4170-917D-AD28C323139E</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">70401F34-8F9F-46EA-B863-54A5DF20DDF4</HistoryItem>
                 </NavigationHistory>
             </View>
             <Text>
@@ -189,7 +191,7 @@
                 <PageLayout Facing="No">No</PageLayout>
                 <TypewriterScrolling>No</TypewriterScrolling>
                 <LineNumbers Interval="1">No</LineNumbers>
-                <Selection>13,0</Selection>
+                <Selection>43,0</Selection>
             </Text>
             <Outliner>
                 <Columns>

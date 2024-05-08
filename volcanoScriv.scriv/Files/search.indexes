@@ -194,6 +194,21 @@ PageEdit 동반 설치
         <Document ID="6A25E9D4-1252-4780-A148-0543DB4C84DC">
             <Title>아래한글로 자서전 쓰기</Title>
         </Document>
+        <Document ID="70401F34-8F9F-46EA-B863-54A5DF20DDF4">
+            <Title>쿠팡 회원 탈퇴</Title>
+            <Text>쿠팡 회원 깨끗하게 탈퇴하는 법
+쿠팡이머니와 쿠팡캐시를 확인하고 소진하는 법
+
+#
+
+#
+
+#
+
+#
+
+#</Text>
+        </Document>
         <Document ID="758D6658-C85A-48BE-95A5-030299A38238">
             <Title>note_Express서버와 Node.js차이</Title>
             <Text>Node.js와 Express 프레임워크 차이를 분명하게 구별하도록 진술
