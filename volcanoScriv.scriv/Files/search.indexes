@@ -15,6 +15,9 @@
         <Document ID="04A18327-5CCC-44F4-AAD6-596208B8BCB9">
             <Title>스크리브너로 글쓰기</Title>
         </Document>
+        <Document ID="090DA587-B58C-4FEA-9CE9-884017700DC1">
+            <Title>천원북스</Title>
+        </Document>
         <Document ID="1258A173-6FEB-4608-9FE3-D840F8654DAC">
             <Title>note</Title>
             <Text>편집 옵션에서 첫글자 대문자 사용과 ‘I’에 대한 옵션 해제
@@ -76,9 +79,16 @@ Express를 사용하면 개발자가 웹 서버를 보다 쉽고 간결하게 �
 
 #</Text>
         </Document>
+        <Document ID="1E174519-9EDC-44F9-BDF8-26737F2DDC7B">
+            <Title>복복 편</Title>
+            <Text>#</Text>
+        </Document>
         <Document ID="1E50266B-8686-44D9-AE7B-EF89DA83BC01">
             <Title>2024년 시집</Title>
-            <Text>#</Text>
+            <Text>#
+
+B5 판형(182 * 257)
+</Text>
         </Document>
         <Document ID="2250FB88-B593-4CA2-B344-3BEA3E779E32">
             <Title>건강노년</Title>
@@ -189,6 +199,26 @@ PageEdit 동반 설치
         <Document ID="5B9B1C4F-CCE6-474A-83D8-FD1C4B7517DA">
             <Title>컨셉</Title>
         </Document>
+        <Document ID="6187B98E-1F6F-4BD3-9312-9C79498732F2">
+            <Title>과제</Title>
+            <Text>#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+모두를 위한 인공지능 토론
+#
+
+데이터과학 입문 시험 2차
+#</Text>
+        </Document>
         <Document ID="694AA089-1534-49BD-AC0F-E4552D728A19">
             <Title>ThinkWise로 컨셉 훈련을 하는 마인드맵</Title>
         </Document>
@@ -209,6 +239,9 @@ PageEdit 동반 설치
 #
 
 #</Text>
+        </Document>
+        <Document ID="739CEDDA-16CF-4ADE-88CD-D9EBE6D8562D">
+            <Title>코딩시대</Title>
         </Document>
         <Document ID="758D6658-C85A-48BE-95A5-030299A38238">
             <Title>note_Express서버와 Node.js차이</Title>
@@ -1445,6 +1478,9 @@ clovanote.naver.com</Text>
         <Document ID="DDB02950-268B-43F8-AC52-879B0A00364C">
             <Title>컨셉</Title>
         </Document>
+        <Document ID="DEE2EE8A-AD51-463F-8C72-205FD3B3BDC5">
+            <Title>서울사이버대학교</Title>
+        </Document>
         <Document ID="E0AA964E-7A7C-474E-A182-FC105F7A8ACD">
             <Title>구글 애드센스</Title>
             <Text>구글 애드센스
@@ -1452,6 +1488,12 @@ clovanote.naver.com</Text>
 구글 애드센스: https://adsense.google.com
 
 #</Text>
+        </Document>
+        <Document ID="E30D7394-1D84-4543-B0F2-9ED9E94159BE">
+            <Title>권당 천원</Title>
+            <Text>천원북스
+천원짜리 책을 유통하는 책거래 사이트
+</Text>
         </Document>
         <Document ID="EB16C257-0E37-4678-A547-63BDF44FDADA">
             <Title>NodeJS</Title>
@@ -1476,6 +1518,29 @@ npm ls로 확인
             <Text>22권 헥토르의 죽음
 
 </Text>
+        </Document>
+        <Document ID="EEA6BD87-022F-400C-927D-0EE4FA525A3F">
+            <Title>클라우드북스(바트, 장재용 공저)</Title>
+            <Text>코딩시대
+2017년 출간 도서
+
+CONTENTS
+WHY
+1장 세상이 기하급수적으로 변하고 있다
+2장 왜 코딩이 시대적 화두인가?
+WHAT
+3장 언플러그드 활동과 교육용 프로그래밍 언어
+4장 프로그래밍 언어
+5장 프로그래밍을 배울 때 알아두면 좋은 개념
+6장 운영체제와 그 활용
+HOW
+7장 컴퓨팅 사고력과 알고리즘
+8장 오픈소스의 세계
+9장 코딩, 4차 산업혁명 시대에서 비상(飛上)하기 위한 열쇠
+</Text>
+        </Document>
+        <Document ID="F51641DE-3165-4FDA-94C0-74373EA02AE7">
+            <Title>어도비 인디자인</Title>
         </Document>
         <Document ID="FA7DAE32-1D51-4626-965B-3B74A494AEE8">
             <Text>#
@@ -2427,6 +2492,13 @@ SNS도 비교의 온상이라고 할 수가 있죠. 이런 것들은 번뇌를 �
 
 
 clovanote.naver.com</Text>
+        </Document>
+        <Document ID="FB4EA6E2-14AA-4739-ABB3-FAD7CD1F9CBA">
+            <Title>페이지 단위의 결과물 제작 프로그램</Title>
+            <Text>어도비 인디자인
+페이지 단위 결과물 제작의 최적 프로그램
+
+</Text>
         </Document>
     </Documents>
 </SearchIndexes>

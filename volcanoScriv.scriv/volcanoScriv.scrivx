@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="1437374E-F201-4EF3-A603-B5E95CC16B6A" Creator="SCRWIN-3.1.5.1" Device="인터넷13" Modified="2024-05-11 10:48:06 +0900" ModID="1A884BDB-4CCC-4E88-87F2-27DCD85AF655">
+<ScrivenerProject Template="No" Version="2.0" Identifier="1437374E-F201-4EF3-A603-B5E95CC16B6A" Creator="SCRWIN-3.1.5.1" Device="멀티16" Modified="2024-05-12 16:19:23 +0900" ModID="D96BB9C8-F98F-4BE0-814A-55FE50F00FF2">
     <Binder>
         <BinderItem UUID="FB57AE48-E567-4089-BE3A-2E60D5529658" Type="DraftFolder" Created="2024-04-16 13:20:31 +0900" Modified="2024-04-16 13:20:31 +0900">
             <Title>Draft</Title>
@@ -63,8 +63,17 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="1E50266B-8686-44D9-AE7B-EF89DA83BC01" Type="Text" Created="2024-04-23 16:00:09 +0900" Modified="2024-05-11 10:44:23 +0900">
+                        <BinderItem UUID="1E50266B-8686-44D9-AE7B-EF89DA83BC01" Type="Text" Created="2024-04-23 16:00:09 +0900" Modified="2024-05-12 09:46:59 +0900">
                             <Title>2024년 시집</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>20,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="1E174519-9EDC-44F9-BDF8-26737F2DDC7B" Type="Text" Created="2024-05-12 09:16:33 +0900" Modified="2024-05-12 09:17:21 +0900">
+                            <Title>복복 편</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
@@ -512,6 +521,86 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
+                <BinderItem UUID="090DA587-B58C-4FEA-9CE9-884017700DC1" Type="Folder" Created="2024-05-12 09:16:00 +0900" Modified="2024-05-12 09:16:10 +0900">
+                    <Title>천원북스</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="E30D7394-1D84-4543-B0F2-9ED9E94159BE" Type="Text" Created="2024-05-12 09:16:12 +0900" Modified="2024-05-12 09:31:45 +0900">
+                            <Title>권당 천원</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>26,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="F51641DE-3165-4FDA-94C0-74373EA02AE7" Type="Folder" Created="2024-05-12 09:43:46 +0900" Modified="2024-05-12 09:43:54 +0900">
+                    <Title>어도비 인디자인</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="FB4EA6E2-14AA-4739-ABB3-FAD7CD1F9CBA" Type="Text" Created="2024-05-12 09:43:58 +0900" Modified="2024-05-12 09:45:25 +0900">
+                            <Title>페이지 단위의 결과물 제작 프로그램</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>32,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="DEE2EE8A-AD51-463F-8C72-205FD3B3BDC5" Type="Folder" Created="2024-05-12 10:10:51 +0900" Modified="2024-05-12 10:10:59 +0900">
+                    <Title>서울사이버대학교</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="6187B98E-1F6F-4BD3-9312-9C79498732F2" Type="Text" Created="2024-05-12 10:11:00 +0900" Modified="2024-05-12 10:21:50 +0900">
+                            <Title>과제</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>50,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="739CEDDA-16CF-4ADE-88CD-D9EBE6D8562D" Type="Folder" Created="2024-05-12 16:13:55 +0900" Modified="2024-05-12 16:14:00 +0900">
+                    <Title>코딩시대</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="EEA6BD87-022F-400C-927D-0EE4FA525A3F" Type="Text" Created="2024-05-12 16:14:01 +0900" Modified="2024-05-12 16:19:21 +0900">
+                            <Title>클라우드북스(바트, 장재용 공저)</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>222,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem UUID="669831E4-FB24-4BBA-AAD8-014A661CFCE5" Type="ResearchFolder" Created="2024-04-16 13:20:31 +0900" Modified="2024-04-16 13:20:31 +0900">
@@ -609,11 +698,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-04-16 13:20:31 +0900" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="Yes" ResetType="Time" ResetTime="01:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="4" Date="2024-05-11 10:48:06 +0900"/>
+        <PreviousSession Words="81" Characters="354" Date="2024-05-12 16:19:23 +0900"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2024-05-11 00:00:00 +0900">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>4</DraftCharCount>
+    <RecentWritingHistory Date="2024-05-12 00:00:00 +0900">
+        <DraftWordCount>81</DraftWordCount>
+        <DraftCharCount>354</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
