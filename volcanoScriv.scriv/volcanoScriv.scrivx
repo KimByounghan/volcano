@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="1437374E-F201-4EF3-A603-B5E95CC16B6A" Creator="SCRWIN-3.1.5.1" Device="인터넷13" Modified="2024-05-13 15:57:13 +0900" ModID="EE29B0DD-62C8-4F3B-8DF7-DC58B29D86A9">
+<ScrivenerProject Template="No" Version="2.0" Identifier="1437374E-F201-4EF3-A603-B5E95CC16B6A" Creator="SCRWIN-3.1.5.1" Device="인터넷13" Modified="2024-05-14 15:56:53 +0900" ModID="DD8775AF-4ADD-4FE6-9F81-657F7FC9FD88">
     <Binder>
         <BinderItem UUID="FB57AE48-E567-4089-BE3A-2E60D5529658" Type="DraftFolder" Created="2024-04-16 13:20:31 +0900" Modified="2024-04-16 13:20:31 +0900">
             <Title>Draft</Title>
@@ -385,13 +385,22 @@
                                         <TextSelection>12805,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="F4E96668-110C-4AE5-BA7E-54EDB96E7FF8" Type="Text" Created="2024-05-13 15:48:23 +0900" Modified="2024-05-13 15:49:04 +0900">
+                                <BinderItem UUID="F4E96668-110C-4AE5-BA7E-54EDB96E7FF8" Type="Text" Created="2024-05-13 15:48:23 +0900" Modified="2024-05-14 15:56:28 +0900">
                                     <Title>춘향전</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>16,0</TextSelection>
+                                        <TextSelection>17,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="2F4ECC8E-AAB1-4CEB-A472-7C3475D2CC0D" Type="Text" Created="2024-05-14 11:24:49 +0900" Modified="2024-05-14 11:30:32 +0900">
+                                    <Title>기말고사</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>245,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -405,7 +414,8 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="FA7DAE32-1D51-4626-965B-3B74A494AEE8" Type="Text" Created="2024-04-23 09:39:05 +0900" Modified="2024-04-23 09:42:36 +0900">
+                                <BinderItem UUID="FA7DAE32-1D51-4626-965B-3B74A494AEE8" Type="Text" Created="2024-04-23 09:39:05 +0900" Modified="2024-05-14 11:32:15 +0900">
+                                    <Title>중간고사 안내</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
@@ -606,8 +616,8 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="6187B98E-1F6F-4BD3-9312-9C79498732F2" Type="Text" Created="2024-05-12 10:11:00 +0900" Modified="2024-05-12 10:21:50 +0900">
-                            <Title>과제</Title>
+                        <BinderItem UUID="6187B98E-1F6F-4BD3-9312-9C79498732F2" Type="Text" Created="2024-05-12 10:11:00 +0900" Modified="2024-05-14 11:32:57 +0900">
+                            <Title>1학기기말과제</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
@@ -734,11 +744,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-04-16 13:20:31 +0900" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="Yes" ResetType="Time" ResetTime="01:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="5043" Characters="20420" Date="2024-05-13 15:57:13 +0900"/>
+        <PreviousSession Words="50" Characters="247" Date="2024-05-14 15:56:53 +0900"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2024-05-13 00:00:00 +0900">
-        <DraftWordCount>5043</DraftWordCount>
-        <DraftCharCount>20420</DraftCharCount>
+    <RecentWritingHistory Date="2024-05-14 00:00:00 +0900">
+        <DraftWordCount>50</DraftWordCount>
+        <DraftCharCount>247</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
