@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="1437374E-F201-4EF3-A603-B5E95CC16B6A" Creator="SCRWIN-3.1.5.1" Device="인터넷13" Modified="2024-05-14 15:56:53 +0900" ModID="DD8775AF-4ADD-4FE6-9F81-657F7FC9FD88">
+<ScrivenerProject Template="No" Version="2.0" Identifier="1437374E-F201-4EF3-A603-B5E95CC16B6A" Creator="SCRWIN-3.1.5.1" Device="인터넷13" Modified="2024-05-16 12:47:30 +0900" ModID="6D11F9C7-02F1-49A5-A402-44AA05C0444B">
     <Binder>
         <BinderItem UUID="FB57AE48-E567-4089-BE3A-2E60D5529658" Type="DraftFolder" Created="2024-04-16 13:20:31 +0900" Modified="2024-04-16 13:20:31 +0900">
             <Title>Draft</Title>
@@ -355,7 +355,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection Caret="36">26,10</TextSelection>
+                                        <TextSelection>241,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="36C0CCB0-0B6D-4D0B-A64C-27F7309757F3" Type="Text" Created="2024-05-13 12:53:36 +0900" Modified="2024-05-13 15:30:42 +0900">
@@ -385,13 +385,13 @@
                                         <TextSelection>12805,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="F4E96668-110C-4AE5-BA7E-54EDB96E7FF8" Type="Text" Created="2024-05-13 15:48:23 +0900" Modified="2024-05-14 15:56:28 +0900">
+                                <BinderItem UUID="F4E96668-110C-4AE5-BA7E-54EDB96E7FF8" Type="Text" Created="2024-05-13 15:48:23 +0900" Modified="2024-05-16 12:47:06 +0900">
                                     <Title>춘향전</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>17,0</TextSelection>
+                                        <TextSelection>180,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="2F4ECC8E-AAB1-4CEB-A472-7C3475D2CC0D" Type="Text" Created="2024-05-14 11:24:49 +0900" Modified="2024-05-14 11:30:32 +0900">
@@ -744,11 +744,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-04-16 13:20:31 +0900" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="Yes" ResetType="Time" ResetTime="01:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="50" Characters="247" Date="2024-05-14 15:56:53 +0900"/>
+        <PreviousSession Words="34" Characters="162" Date="2024-05-16 12:47:30 +0900"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2024-05-14 00:00:00 +0900">
-        <DraftWordCount>50</DraftWordCount>
-        <DraftCharCount>247</DraftCharCount>
+    <RecentWritingHistory Date="2024-05-16 00:00:00 +0900">
+        <DraftWordCount>34</DraftWordCount>
+        <DraftCharCount>162</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
