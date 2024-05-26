@@ -41,7 +41,7 @@
         <Binder FullWidth="No">No</Binder>
         <Icons>No</Icons>
         <IndexCards>No</IndexCards>
-        <OutlinerRows>No</OutlinerRows>
+        <OutlinerRows>Yes</OutlinerRows>
         <ScriveningsTitles>No</ScriveningsTitles>
     </Labels>
     <Corkboards>
@@ -231,7 +231,7 @@
                 <PageLayout Facing="No">No</PageLayout>
                 <TypewriterScrolling>No</TypewriterScrolling>
                 <LineNumbers Interval="1">No</LineNumbers>
-                <Selection>180,0</Selection>
+                <Selection>179,0</Selection>
             </Text>
             <Outliner>
                 <Columns>

@@ -88,7 +88,7 @@ Express를 사용하면 개발자가 웹 서버를 보다 쉽고 간결하게 �
             <Text>#
 
 B5 판형(182 * 257)
-</Text>
+#</Text>
         </Document>
         <Document ID="2250FB88-B593-4CA2-B344-3BEA3E779E32">
             <Title>건강노년</Title>
@@ -772,6 +772,9 @@ Express를 사용하면 개발자가 웹 서버를 보다 쉽고 간결하게 �
         </Document>
         <Document ID="ADA317A4-4D04-426D-967B-F3975DA5DB8A">
             <Title>23권 파트로클로스를 위한 장례 경기</Title>
+        </Document>
+        <Document ID="AE8FF23C-67FE-4B01-937A-236156EDA467">
+            <Title>기말고사</Title>
         </Document>
         <Document ID="B498E1C8-7B13-43FC-B045-947355306C65">
             <Title>노년도 할 수 있다</Title>
