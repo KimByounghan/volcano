@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="1437374E-F201-4EF3-A603-B5E95CC16B6A" Creator="SCRWIN-3.1.5.1" Device="사직-인터넷PC02" Modified="2024-05-29 09:25:33 +0900" ModID="A5520881-A165-489B-BCB8-FAFE1166064F">
+<ScrivenerProject Template="No" Version="2.0" Identifier="1437374E-F201-4EF3-A603-B5E95CC16B6A" Creator="SCRWIN-3.1.5.1" Device="사직-인터넷PC02" Modified="2024-05-29 09:27:59 +0900" ModID="508AFEC5-F60F-4510-99B1-2B18883E8F88">
     <Binder>
         <BinderItem UUID="FB57AE48-E567-4089-BE3A-2E60D5529658" Type="DraftFolder" Created="2024-04-16 13:20:31 +0900" Modified="2024-04-16 13:20:31 +0900">
             <Title>Draft</Title>
@@ -665,13 +665,13 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="DDDE9537-7B26-4E3F-8218-74566D8028E9" Type="Text" Created="2024-05-29 09:21:23 +0900" Modified="2024-05-29 09:25:31 +0900">
+                        <BinderItem UUID="DDDE9537-7B26-4E3F-8218-74566D8028E9" Type="Text" Created="2024-05-29 09:21:23 +0900" Modified="2024-05-29 09:27:53 +0900">
                             <Title>전자도서관 루틴</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>128,0</TextSelection>
+                                <TextSelection>166,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -773,11 +773,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-04-16 13:20:31 +0900" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="Yes" ResetType="Time" ResetTime="01:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="44" Characters="178" Date="2024-05-29 09:25:33 +0900"/>
+        <PreviousSession Words="52" Characters="213" Date="2024-05-29 09:27:59 +0900"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2024-05-29 00:00:00 +0900">
-        <DraftWordCount>44</DraftWordCount>
-        <DraftCharCount>178</DraftCharCount>
+        <DraftWordCount>52</DraftWordCount>
+        <DraftCharCount>213</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>

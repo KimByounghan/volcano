@@ -296,7 +296,12 @@ B5 판형(182 * 257)
 
 PageEdit 동반 설치
 
-시길 2.1 버전을 사용하되, epub 버전은 3.0이 아닌 2.0 버전으로 책 만들기(후속작으로 3.0 사용)</Text>
+시길 2.1 버전을 사용하되, epub 버전은 3.0이 아닌 2.0 버전으로 책 만들기(후속작으로 3.0 사용)
+기본 역량 숙달
+기본기 닦기
+기본적인 기능 반복 연습
+- 방송대 강의 학습하듯이(10번 반복 청취)
+</Text>
         </Document>
         <Document ID="57D11850-B5D9-416D-9E3E-5B064C38EC8E">
             <Title>뮤지컬 영화 '마이 페어 레이디</Title>
@@ -1945,6 +1950,30 @@ clovanote.naver.com</Text>
 - 숫자 ‘3’
 - 놀이 문화</Text>
         </Document>
+        <Document ID="DDDE9537-7B26-4E3F-8218-74566D8028E9">
+            <Title>전자도서관 루틴</Title>
+            <Text>시작할 때
+자동 종료 세팅
+#
+Node.js 설치
+GitHub 설치 및 해당 과제 clone
+스크리브너 설치
+시길 및 페이지에디트 설치
+비주얼스튜디오 설치
+폰트 설치
+
+스크리브너 실행
+끝낼 때
+스크리브너 저장 및 종료
+#
+
+GitHub 커밋 및 푸시
+#
+GitHub 종료
+#
+개인정보 관련 마무리
+</Text>
+        </Document>
         <Document ID="DEE2EE8A-AD51-463F-8C72-205FD3B3BDC5">
             <Title>서울사이버대학교</Title>
         </Document>
@@ -2005,6 +2034,9 @@ HOW
 8장 오픈소스의 세계
 9장 코딩, 4차 산업혁명 시대에서 비상(飛上)하기 위한 열쇠
 </Text>
+        </Document>
+        <Document ID="F4702978-9E92-4E81-ABF6-7D3E29D9C49D">
+            <Title>나의 도서관 루틴</Title>
         </Document>
         <Document ID="F4E96668-110C-4AE5-BA7E-54EDB96E7FF8">
             <Title>춘향전</Title>
