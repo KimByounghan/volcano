@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="1437374E-F201-4EF3-A603-B5E95CC16B6A" Creator="SCRWIN-3.1.5.1" Device="사직-인터넷PC02" Modified="2024-05-29 09:27:59 +0900" ModID="508AFEC5-F60F-4510-99B1-2B18883E8F88">
+<ScrivenerProject Template="No" Version="2.0" Identifier="1437374E-F201-4EF3-A603-B5E95CC16B6A" Creator="SCRWIN-3.1.5.1" Device="이용자19" Modified="2024-06-01 12:55:32 +0900" ModID="E28FDE01-9367-4FF1-9844-94F08B786CFC">
     <Binder>
         <BinderItem UUID="FB57AE48-E567-4089-BE3A-2E60D5529658" Type="DraftFolder" Created="2024-04-16 13:20:31 +0900" Modified="2024-04-16 13:20:31 +0900">
             <Title>Draft</Title>
@@ -50,6 +50,15 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>31,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="35543C32-BC27-4C69-8A63-ACA68B1DC5D6" Type="Text" Created="2024-06-01 10:17:22 +0900" Modified="2024-06-01 12:55:30 +0900">
+                            <Title>google book 사용</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>56,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -773,11 +782,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-04-16 13:20:31 +0900" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="Yes" ResetType="Time" ResetTime="01:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="52" Characters="213" Date="2024-05-29 09:27:59 +0900"/>
+        <PreviousSession Words="9" Characters="56" Date="2024-06-01 12:55:32 +0900"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2024-05-29 00:00:00 +0900">
-        <DraftWordCount>52</DraftWordCount>
-        <DraftCharCount>213</DraftCharCount>
+    <RecentWritingHistory Date="2024-06-01 00:00:00 +0900">
+        <DraftWordCount>9</DraftWordCount>
+        <DraftCharCount>56</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
