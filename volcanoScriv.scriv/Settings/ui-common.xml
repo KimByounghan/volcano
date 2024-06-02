@@ -26,7 +26,7 @@
             <ItemID>669831E4-FB24-4BBA-AAD8-014A661CFCE5</ItemID>
         </ExpandedItems>
         <Selection>
-            <ItemID>35543C32-BC27-4C69-8A63-ACA68B1DC5D6</ItemID>
+            <ItemID>BD9ACD01-9E34-4312-84FE-A9A47D977796</ItemID>
         </Selection>
         <SearchResultsSort Titles="Ascending" Dates="Ascending">None</SearchResultsSort>
     </Binder>
@@ -77,12 +77,12 @@
                 <ShowHeader>Yes</ShowHeader>
                 <ShowFooter>Yes</ShowFooter>
                 <GroupsViewMode>Corkboard</GroupsViewMode>
-                <CurrentViewMode>Single</CurrentViewMode>
-                <SelectionAffects>Current</SelectionAffects>
+                <CurrentViewMode>Corkboard</CurrentViewMode>
+                <SelectionAffects>None</SelectionAffects>
                 <Content>
-                    <ItemID>35543C32-BC27-4C69-8A63-ACA68B1DC5D6</ItemID>
+                    <ItemID>BD9ACD01-9E34-4312-84FE-A9A47D977796</ItemID>
                 </Content>
-                <NavigationHistory CurrentIndex="150">
+                <NavigationHistory CurrentIndex="151">
                     <HistoryItem Type="BinderItems" ViewMode="Single">B498E1C8-7B13-43FC-B045-947355306C65</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Corkboard">30132500-6028-4194-BB8A-9830AB1DE469</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">5546CD5C-EF58-491A-9608-E2E1C0D93D82</HistoryItem>
@@ -234,6 +234,7 @@
                     <HistoryItem Type="BinderItems" ViewMode="Single">5546CD5C-EF58-491A-9608-E2E1C0D93D82</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">306B0A4E-D774-475D-9416-8006C64773FB</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">35543C32-BC27-4C69-8A63-ACA68B1DC5D6</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">BD9ACD01-9E34-4312-84FE-A9A47D977796</HistoryItem>
                 </NavigationHistory>
             </View>
             <Text>
@@ -241,7 +242,7 @@
                 <PageLayout Facing="No">No</PageLayout>
                 <TypewriterScrolling>No</TypewriterScrolling>
                 <LineNumbers Interval="1">No</LineNumbers>
-                <Selection>56,0</Selection>
+                <Selection>0,0</Selection>
             </Text>
             <Outliner>
                 <Columns>
