@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="1437374E-F201-4EF3-A603-B5E95CC16B6A" Creator="SCRWIN-3.1.5.1" Device="이용자19" Modified="2024-06-02 11:15:29 +0900" ModID="E28FDE01-9367-4FF1-9844-94F08B786CFC">
+<ScrivenerProject Template="No" Version="2.0" Identifier="1437374E-F201-4EF3-A603-B5E95CC16B6A" Creator="SCRWIN-3.1.5.1" Device="인터넷1-원문db" Modified="2024-06-03 09:43:15 +0900" ModID="049662EF-5EF0-4A1B-A476-B6DE7B2D862A">
     <Binder>
         <BinderItem UUID="FB57AE48-E567-4089-BE3A-2E60D5529658" Type="DraftFolder" Created="2024-04-16 13:20:31 +0900" Modified="2024-04-16 13:20:31 +0900">
             <Title>Draft</Title>
@@ -441,13 +441,13 @@
                                         <TextSelection>210,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="5B9B1C4F-CCE6-474A-83D8-FD1C4B7517DA" Type="Text" Created="2024-04-23 09:40:34 +0900" Modified="2024-04-23 09:40:37 +0900">
-                                    <Title>컨셉</Title>
+                                <BinderItem UUID="5B9B1C4F-CCE6-474A-83D8-FD1C4B7517DA" Type="Text" Created="2024-04-23 09:40:34 +0900" Modified="2024-06-03 09:42:54 +0900">
+                                    <Title>QGIS 교수 네트워크 연결</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>12,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -782,11 +782,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-04-16 13:20:31 +0900" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="Yes" ResetType="Time" ResetTime="01:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2024-06-02 11:15:29 +0900"/>
+        <PreviousSession Words="3" Characters="12" Date="2024-06-03 09:43:15 +0900"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2024-06-02 00:00:00 +0900">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
+    <RecentWritingHistory Date="2024-06-03 00:00:00 +0900">
+        <DraftWordCount>3</DraftWordCount>
+        <DraftCharCount>12</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
